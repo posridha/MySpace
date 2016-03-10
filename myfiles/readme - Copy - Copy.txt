@@ -1,3 +1,7 @@
-my test file readme
 
-a copy fle
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/posridha/MySpace.git
+git push -u origin master
+
